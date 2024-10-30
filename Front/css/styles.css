@@ -1,0 +1,9 @@
+#telegram-btn{
+position: fixed;
+z-index: 9999999999999;
+border-radius: 500px;
+}
+
+.telegram-btn{
+width:100%;
+}
